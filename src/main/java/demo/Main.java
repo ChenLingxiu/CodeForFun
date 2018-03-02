@@ -5,9 +5,7 @@ import java.util.HashMap;
 
 /**
  * Created by ShuHeng on 2018/3/2.
- *
- * 符合要求的重复排列结果：
- * B C A C A C D A B A true
+ * 计算2018年刑侦科目推理试题的答案：B C A C A C D A B A
  *
  */
 public class Main {
